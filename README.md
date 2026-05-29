@@ -206,20 +206,13 @@ Provide employee-level analysis and impact evaluation.
 ---
 
 ## Executive Overview Dashboard
+![Executive Overview](HR%20Analytics%20Dashboard/Executive%20Overview.png)
 
-![Executive Overview](Executive%20Overview.png)
+![Performance Analysis](HR%20Analytics%20Dashboard/Performance%20Analysis%20.png)
 
-## Performance Analysis Dashboard
+![Salary and Compensation](HR%20Analytics%20Dashboard/Salary%20and%20Compensation.png)
 
-![Performance Analysis](Performance%20Analysis%20.png)
-
-## Salary and Compensation Dashboard
-
-![Salary and Compensation](Salary%20and%20Compensation.png)
-
-## Employee Personal Impact Dashboard
-
-![Employee Personal Impact](Personal%20Impact.png)
+![Personal Impact](HR%20Analytics%20Dashboard/Personal%20Impact.png)
 
 ---
 
